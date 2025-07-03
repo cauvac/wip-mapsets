@@ -1,0 +1,74 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 742969
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1.8
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 7.759995
+
+[Metadata]
+Title:whatever
+TitleUnicode:whatever
+Artist:Dead Digitizer
+ArtistUnicode:Dead Digitizer
+Creator:Cau2Ryby
+Version:Marathon
+Source:
+Tags:
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:4.2
+CircleSize:4
+OverallDifficulty:8.2
+ApproachRate:9.3
+SliderMultiplier:1.91
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Gu3kOQTWAAAQiPc.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,396.956665564009,4,2,0,100,1,0
+50596,370.759438917382,4,2,0,100,1,0
+121717,355.977454761198,4,2,0,100,1,0
+196136,421.407501053519,4,2,0,100,1,0
+310773,405.131667792032,4,2,0,100,1,0
+443264,408.302143586254,4,2,0,100,1,0
+496124,436.840189297415,4,2,0,100,1,0
+496997,436.840189297415,4,2,0,100,1,0
+580846,407.608695652174,4,2,0,100,1,0
+633051,405.816706121069,4,2,0,100,1,0
+673618,361.206429474445,4,2,0,100,1,0
+744414,-100,4,2,0,100,0,1
+764642,-100,4,2,0,100,0,0
+767503,333.185250999556,4,2,0,100,1,0
+849466,404.244567963618,4,2,0,100,1,0
+975565,439.238653001464,4,2,0,100,1,0
+1008947,432.71311120727,4,2,0,100,1,0
+1043642,427.046263345196,4,2,0,100,1,0
+1098345,433.041030637653,4,2,0,100,1,0
+1223105,416.088765603329,4,2,0,100,1,0
+
+
+[HitObjects]
